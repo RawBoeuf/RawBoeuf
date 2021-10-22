@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RawBoeuf
 - 👀 I’m interested in anything really.
-- 🌱 I’m currently learning C#/Java.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on anything that will further my software knowledge.
 - 📫 How to reach me fencedfruit@gmail.com
 
