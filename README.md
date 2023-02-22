@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RawBoeuf also known as Terry Pham.
 - 👀 I’m interested in reading, writing, and programming.
-- 🌱 I’m currently a Computer Science student at UWB learning C++.
+- 🌱 I’m currently self-pacing my learning through online courses to learn a mixture of IT and Cybersecurity skills.
 - 💞️ I’m looking to collaborate on anything that will further my software knowledge.
 - 📫 How to reach me fencedfruit@gmail.com
 
